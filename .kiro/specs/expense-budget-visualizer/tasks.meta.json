@@ -1,0 +1,258 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold file structure and HTML shell": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269586394
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269596258
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269663863
+      }
+    ],
+    "2.1 Write the `Storage` module in `js/app.js`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269586816
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269667970
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269724506
+      }
+    ],
+    "3.1 Write the `Validator` module in `js/app.js`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269586965
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269668332
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269724916
+      }
+    ],
+    "4.1 Implement `formatCurrency` and `UI` helper methods": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269587104
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269668746
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269725461
+      }
+    ],
+    "5.1 Implement `UI.renderBalance(transactions)`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269587234
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269729969
+      }
+    ],
+    "5.3 Implement `UI.renderList(transactions)`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269587455
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269730403
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270464297
+      }
+    ],
+    "6.1 Write `ChartManager.init(canvasElement)`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269587603
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269730977
+      }
+    ],
+    "6.2 Write `ChartManager.update(transactions)`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269587739
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270493432
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270559791
+      }
+    ],
+    "7. Checkpoint — core modules complete": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269587858
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270565173
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270569116
+      }
+    ],
+    "8.1 Write the `init` function and form submit handler": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269588060
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270573679
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270731299
+      }
+    ],
+    "8.4 Write the delete event handler (event delegation)": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269588177
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270574376
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270731631
+      }
+    ],
+    "9. Apply CSS styling": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269588298
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270739065
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790271094576
+      }
+    ],
+    "10. Final checkpoint — full integration": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269588458
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790271099295
+      },
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790271138630
+      }
+    ],
+    "2. Implement the `Storage` module": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269724706
+      }
+    ],
+    "3. Implement the `Validator` module": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269725064
+      }
+    ],
+    "4. Implement shared utility and `UI` module (non-list rendering)": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790269725684
+      }
+    ],
+    "5. Implement `UI.renderBalance` and `UI.renderList`": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270464612
+      }
+    ],
+    "6. Implement `ChartManager` module": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270560074
+      }
+    ],
+    "8. Implement the `init` controller and event bindings": [
+      {
+        "executionId": "f94cb260-1652-42eb-925c-f07a7af13101",
+        "chatSessionId": "sess_77b5965b-eaa1-4486-ac30-8859c0bfbfa6",
+        "timestamp": 1790270731773
+      }
+    ]
+  }
+}
